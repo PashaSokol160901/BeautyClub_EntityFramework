@@ -1,0 +1,15 @@
+C:\Users\pasha\source\repos\Beauty Club\BeautyClub\Boost\Boost\bin\Debug\Boost.exe.config
+C:\Users\pasha\source\repos\Beauty Club\BeautyClub\Boost\Boost\bin\Debug\Boost.exe
+C:\Users\pasha\source\repos\Beauty Club\BeautyClub\Boost\Boost\bin\Debug\Boost.pdb
+C:\Users\pasha\source\repos\Beauty Club\BeautyClub\Boost\Boost\bin\Debug\EntityFramework.dll
+C:\Users\pasha\source\repos\Beauty Club\BeautyClub\Boost\Boost\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\pasha\source\repos\Beauty Club\BeautyClub\Boost\Boost\bin\Debug\EntityFramework.xml
+C:\Users\pasha\source\repos\Beauty Club\BeautyClub\Boost\Boost\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\pasha\source\repos\Beauty Club\BeautyClub\Boost\Boost\obj\Debug\Boost.csproj.AssemblyReference.cache
+C:\Users\pasha\source\repos\Beauty Club\BeautyClub\Boost\Boost\obj\Debug\Boost.csproj.SuggestedBindingRedirects.cache
+C:\Users\pasha\source\repos\Beauty Club\BeautyClub\Boost\Boost\obj\Debug\Boost.csproj.CoreCompileInputs.cache
+C:\Users\pasha\source\repos\Beauty Club\BeautyClub\Boost\Boost\obj\Debug\Boost.csproj.CopyComplete
+C:\Users\pasha\source\repos\Beauty Club\BeautyClub\Boost\Boost\obj\Debug\Boost.exe
+C:\Users\pasha\source\repos\Beauty Club\BeautyClub\Boost\Boost\obj\Debug\Boost.pdb
+C:\Users\pasha\source\repos\Beauty Club\BeautyClub\Boost\Boost\obj\Debug\Boost.Migrations.PashaSokol.resources
+C:\Users\pasha\source\repos\Beauty Club\BeautyClub\Boost\Boost\obj\Debug\Boost.csproj.GenerateResource.cache
